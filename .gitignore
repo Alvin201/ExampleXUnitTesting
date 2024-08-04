@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UnitTesting/.vs
+/UnitTesting/.vscode
+/UnitTesting/MathDemo/bin/Debug/net6.0
+/UnitTesting/MathDemo/obj
+/UnitTesting/MathDemo.Tests/bin
+/UnitTesting/MathDemo.Tests/obj
